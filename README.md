@@ -1,4 +1,4 @@
-# Custom Clothing Configurator
+# Custom 3D SHIRT Configurator
 
 This project is built using Vite, React, and react-three/fiber. It allows users to configure and customize clothing products such as t-shirts for now.
 
